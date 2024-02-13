@@ -40,6 +40,8 @@ body, html{
     display: flex;
     justify-content: space-between;
     height: 2rem;
+
+    max-width: 13rem;
 }
 .logo{
     grid-column: span 2;
